@@ -1,0 +1,15 @@
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\bin\Debug\Pennies app.exe.config
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\bin\Debug\Pennies app.exe
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\bin\Debug\Pennies app.pdb
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\Pennies app.csproj.AssemblyReference.cache
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\MainWindow.g.cs
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\App.g.cs
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\Pennies app_MarkupCompile.cache
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\Pennies app_MarkupCompile.lref
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\MainWindow.baml
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\Pennies app.g.resources
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\Pennies_app.Properties.Resources.resources
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\Pennies app.csproj.GenerateResource.cache
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\Pennies app.csproj.CoreCompileInputs.cache
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\Pennies app.exe
+C:\Users\fusco_anthony\source\repos\Pennies app\Pennies app\obj\Debug\Pennies app.pdb
